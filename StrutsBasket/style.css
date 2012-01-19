@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+#enternameWR {
+	width: 400px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 40px;
+	-moz-box-shadow: 0px 0px 5px #000;
+	-webkit-box-shadow: 0px 0px 5px #000;
+	box-shadow: 0px 0px 5px #000;
+	margin-top: 70px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333;
+	background-color: #FFF;
+	-moz-border-radius: 8px 0px 8px 0px;
+	border-radius: 8px 0px 8px 0px;
+	border: thick solid #906;
+}
+#hdr {
+	width: 100%;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #906;
+	font-weight: lighter;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#basketWR {
+	width: 500px;
+	margin-top: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333;
+	background-color: #FFF;
+	-moz-border-radius: 8px 0px 8px 0px;
+	border-radius: 8px 0px 8px 0px;
+	border: thick solid #906;
+	-moz-box-shadow: 0px 0px 5px #000;
+	-webkit-box-shadow: 0px 0px 5px #000;
+	box-shadow: 0px 0px 5px #000;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+#submit {
+	text-align: center;
+	width: 120px;
+	margin-right: auto;
+	margin-left: auto;
+}
